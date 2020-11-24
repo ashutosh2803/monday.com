@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap" rel="stylesheet">
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>monday.com: Where Teams Get Work Done</title>
+    <link rel="stylesheet" href="./login.css">
+</head>
+<body>
+    <div class="page-header">
+        <img src="https://cdn7.monday.com/images/logos/monday_logo_short.png">
+    </div>
+    <div id="outer-container"></div>
+    <h1 class="login-wrapper-h1">Login to your account</h1>
+    <div class="input-box">
+        <div>Enter your work email address</div>
+        <input type="text" placeholder="Example@company.com" />
+        <div id="message"></div>
+        <div id="submit-button"><p>Next</p></div>
+    </div>
+    <div id="seperator">
+        <div class="line"></div>
+        <div id="seperator-text"> Or Sign in with </div>
+        <div class="line"></div>
+    </div>
+    <div class="signin-buttons-wrapper">
+        <div id="google-signup-button_id" class="oauth-signin-button">
+            <span class="logo-wrapper">
+              <img class="oauth-provider-logo" src="https://cdn7.monday.com/images/logo_google.png">
+            </span>
+            <span class="oauth-provider-button-text">
+              Google
+            </span>
+        </div>
+        <div id="slack-signup-button_id" class="oauth-signin-button">
+            <span class="logo-wrapper">
+              <img class="oauth-provider-logo" src="https://cdn7.monday.com/images/logo_slack.png">
+            </span>
+            <span class="oauth-provider-button-text">
+              Slack
+            </span>
+        </div>
+        <div id="linkedin-signup-button_id" class="oauth-signin-button">
+        <span class="logo-wrapper">
+            <img class="oauth-provider-logo" src="https://cdn7.monday.com/images/logo_linkedin.png">
+        </span>
+        <span class="oauth-provider-button-text">
+            Linkedin
+        </span>
+        </div>
+    </div>
+    <p id="signup-option">Don't have an account yet? <span>Sign up</span></p>
+    <script src="./login.js"></script>
+</body>
+</html>
