@@ -2,18 +2,18 @@
 #Titans Unit 1 Project
 ### monday.com Clone
 ---
-#Group Name: Silicon
+Group Name: Silicon
 ---
-#Team Members:
+Team Members:
 ---
 1. Ashutosh Kumar
 2. Mohan Reddy
 3. Shunmuga Raman
 ---
-#title: monday.com CLONE
+title: monday.com CLONE
+---
 description: Created a Clone of monday.com using HTML, CSS, JAVASCRIPT for Unit Assessment!
 ---
-
 monday.com Clone was designed from the ground and purely done in teamwork and can be run locally as the code is not pushed on server.
 
 > **Important Note:** All functionalities are not available and some part are purely HTML and CSS. Tried the best to clone the frontend part.
