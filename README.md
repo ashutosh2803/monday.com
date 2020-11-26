@@ -18,7 +18,7 @@ monday.com Clone was designed from the ground and purely done in teamwork and ca
 
 > **Important Note:** All functionalities are not available and some part are purely HTML and CSS. Tried the best to clone the frontend part.
 
-## Running the example website
+## Running the Clone website
 
 To run the monday.com clone locally, 
 
