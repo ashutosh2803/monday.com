@@ -14,6 +14,7 @@ title: monday.com CLONE
 ---
 description: Created a Clone of monday.com using HTML, CSS, JAVASCRIPT for Unit Assessment!
 ---
+![Screenshot from 2020-11-28 10-31-17](https://user-images.githubusercontent.com/40117155/100494281-58224c00-3166-11eb-9ad9-9bfaee9c5641.png)
 monday.com Clone was designed from the ground and purely done in teamwork and can be run locally as the code is not pushed on server.
 
 > **Important Note:** All functionalities are not available and some part are purely HTML and CSS. Tried the best to clone the frontend part.
